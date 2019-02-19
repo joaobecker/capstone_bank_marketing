@@ -16,3 +16,6 @@
 
 ### Data
 [Project Data](https://github.com/joaobecker/capstone_bank_marketing/blob/master/bank-additional-full.csv)
+
+### Project - Short Presentation
+[Slide Deck](https://github.com/joaobecker/capstone_bank_marketing/blob/master/slide_deck_portuguese_bank.pptx)
