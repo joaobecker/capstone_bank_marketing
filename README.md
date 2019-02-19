@@ -7,7 +7,7 @@
   
 ### Results
   - After running three different machine learning models, logistic regression, random forest and gradient boosting classifier, random forest model was the one that obtained the best results.
-  - The random forest model can predict the customers that are not going to subscribe with a 99% accuracy and predict 95% of all the potential subscribers in the list, while having an AUC of 93.06%.
+  - The random forest model can predict the customers that are not going to subscribe with a 99% accuracy and predict 95% of all the potential subscribers in the dataset, while having an AUC of 93.06%.
   
   
 ### Project Findings -
