@@ -8,6 +8,7 @@
 ### Results
   - After running three different machine learning models, logistic regression, random forest and gradient boosting classifier, random forest model was the one that obtained the best results.
   - The random forest model can predict the customers that are not going to subscribe with a 99% accuracy and predict 95% of all the potential subscribers in the dataset, while having an AUC of 93.06%.
+  - The bank will improve efficiency and effectivity as it will need to contact only 30% of the entire list to obtain the same amount of subscribers, freeing 2068.5 hours from the sales department, saving the bank 28,339 Euros. In addition, the bank can increase the number of subscribers by creating a more enticing marketing campaign to those who are less likely not to subscribe.
   
   
 ### Project Findings -
